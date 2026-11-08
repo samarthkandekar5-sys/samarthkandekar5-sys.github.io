@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.vercel/
+.env
+.env.*
+!.env.example
+out/
+build/
+coverage/
+.DS_Store
+Thumbs.db
+npm-debug.log*
