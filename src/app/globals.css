@@ -164,6 +164,8 @@ button { color: inherit; cursor: pointer; }
 .velcura-heading h3 em { margin-left: .07em; color: var(--blue); font-style: normal; }
 .velcura-heading p { color: var(--muted); margin: 16px 0 0; font-size: 16px; }
 .venture-stage-note { display: block; max-width: 660px; margin-top: 9px; color: #8c9aaa; font: 10px/1.55 var(--mono); letter-spacing: .035em; }
+.velcura-valuation { margin: 11px 0 0 !important; color: #9cacc0 !important; font-size: 12px !important; line-height: 1.5; }
+.velcura-valuation strong { color: #d9e6f4; font-weight: 600; }
 .external-link { display: inline-flex; align-items: center; gap: 10px; flex: 0 0 auto; margin-bottom: 6px; color: #cbd5df; border-bottom: 1px solid rgba(121, 174, 252, .5); padding-bottom: 8px; font-size: 13px; }
 .external-link svg { color: var(--blue); }
 .velcura-showcase { position: relative; z-index: 1; }
