@@ -10,7 +10,7 @@ export const site = {
   firstName: 'Samarth',
   lastName: 'Kandekar',
   designation: 'Founder & CEO · Building Technology Companies',
-  domain: 'https://samarthkandekar.me',
+  domain: 'https://www.samarthkandekar.me',
   email: 'samarthkandekar5@gmail.com',
   location: 'India',
   age: 18,
